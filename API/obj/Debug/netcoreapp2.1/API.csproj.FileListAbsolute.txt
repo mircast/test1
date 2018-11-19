@@ -1,0 +1,14 @@
+C:\Code\Tutorial\newman1\api\bin\Debug\netcoreapp2.1\API.deps.json
+C:\Code\Tutorial\newman1\api\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+C:\Code\Tutorial\newman1\api\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+C:\Code\Tutorial\newman1\api\bin\Debug\netcoreapp2.1\API.dll
+C:\Code\Tutorial\newman1\api\bin\Debug\netcoreapp2.1\API.pdb
+C:\Code\Tutorial\newman1\api\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+C:\Code\Tutorial\newman1\api\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+C:\Code\Tutorial\newman1\api\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+C:\Code\Tutorial\newman1\api\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+C:\Code\Tutorial\newman1\api\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+C:\Code\Tutorial\newman1\api\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+C:\Code\Tutorial\newman1\api\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+C:\Code\Tutorial\newman1\api\obj\Debug\netcoreapp2.1\API.dll
+C:\Code\Tutorial\newman1\api\obj\Debug\netcoreapp2.1\API.pdb
